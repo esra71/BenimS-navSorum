@@ -1,1 +1,1 @@
-# benim_s-nav_sorum
+# algoritma_vize_sorusu
